@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="bg_primary">#FF0FBA81</color>
+    <color name="bg_secondary">#FF4F46E5</color>
+    <color name="bg_tertiary">#FF0EA5E9</color>
+    <color name="bg_success">#FF84cc16</color>
+    <color name="bg_warning">#FFEAB308</color>
+    <color name="bg_error">#FFD41976</color>
+    <color name="bg_surface">#FF495a8f</color>
+
+    <color name="on_primary">@color/black</color>
+    <color name="on_secondary">@color/white</color>
+    <color name="on_tertiary">@color/black</color>
+    <color name="on_success">@color/black</color>
+    <color name="on_warning">@color/black</color>
+    <color name="on_error">@color/white</color>
+    <color name="on_surface">@color/white</color>
+</resources>

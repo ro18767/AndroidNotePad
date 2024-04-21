@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="add_note_description">add note</string>
+</resources>
